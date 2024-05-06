@@ -54,13 +54,12 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
 <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">harsh42026@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Harsh Kumar</tspan>
-<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">Hrs_flex</tspan>
+<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
+<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan> 
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">84</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,943  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">183</tspan> 
+<tspan x="370" y="470">——————</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">84</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,943  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">183</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">434,280</tspan> (<tspan class="addColor">505,347++</tspan>, <tspan class="delColor">71,067--</tspan>)
-
 </text>
 
 </svg>
