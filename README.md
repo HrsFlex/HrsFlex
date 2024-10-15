@@ -11,3 +11,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 ![trophy](https://github-profile-trophy.vercel.app/?username=HrsFlex)
 
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HrsFlex&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div>
